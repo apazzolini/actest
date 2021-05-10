@@ -1,0 +1,10 @@
+{
+  "name": "pull-request-description",
+  "version": "1.0.0",
+  "description": "Update pull request description on push for the master branch.",
+  "main": "main.js",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^2.2.0"
+  }
+}
